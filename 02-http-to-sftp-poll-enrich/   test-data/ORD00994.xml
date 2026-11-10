@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+    <Order>
+        <ORD_NUM>124</ORD_NUM>
+        <Order_Filename>ORD00994.xml</Order_Filename>
+        <Customer_Name>John Doe</Customer_Name>
+        <Delivery_Address>Hyderabad, India</Delivery_Address>
+        <Payment_Status>Paid</Payment_Status>
+        <Order_Status>Processing</Order_Status>
+    </Order>
+</Orders>

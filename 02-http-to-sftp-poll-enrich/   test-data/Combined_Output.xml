@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<multimap:Messages xmlns:multimap="http://sap.com/xi/XI/SplitAndMerge">
+    <multimap:Message1>
+        <Invoices>
+            <Invoice>
+                <MessageType>Invoice</MessageType>
+                <INV_NUM>INV00001</INV_NUM>
+                <ORD_NUM>124</ORD_NUM>
+                <INV_DATE>27-10-2023</INV_DATE>
+                <INV_CC>IND</INV_CC>
+                <Order_Filename>ORD00994.xml</Order_Filename>
+                <LMC>Yes</LMC>
+            </Invoice>
+        </Invoices>
+    </multimap:Message1>
+    <multimap:Message2>
+        <Orders>
+            <Order>
+                <ORD_NUM>124</ORD_NUM>
+                <Order_Filename>ORD00994.xml</Order_Filename>
+                <Customer_Name>John Doe</Customer_Name>
+                <Delivery_Address>Hyderabad, India</Delivery_Address>
+                <Payment_Status>Paid</Payment_Status>
+                <Order_Status>Processing</Order_Status>
+            </Order>
+        </Orders>
+    </multimap:Message2>
+</multimap:Messages>

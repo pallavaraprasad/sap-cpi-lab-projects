@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoices>
+  <Invoice>
+    <MessageType>Invoice</MessageType>
+    <INV_NUM>INV00001</INV_NUM>
+    <ORD_NUM>124</ORD_NUM>
+    <INV_DATE>27-10-2023</INV_DATE>
+    <INV_CC>IND</INV_CC>
+    <Order_Filename>ORD00994.xml</Order_Filename>
+    <LMC>Yes</LMC>
+    <INV_Total/>
+    <INV_ITEM>
+      <Item>
+        <Item_Name>Iphone</Item_Name>
+        <Item_Num>HT-2001</Item_Num>
+        <Item_Cost>50000</Item_Cost>
+      </Item>
+      <Item>
+        <Item_Name>Iphone1</Item_Name>
+        <Item_Num>HT-2002</Item_Num>
+        <Item_Cost>60000.32</Item_Cost>
+      </Item>
+      <Item>
+        <Item_Name>Iphone2</Item_Name>
+        <Item_Num>HT-2003</Item_Num>
+        <Item_Cost>70000.56</Item_Cost>
+      </Item>
+      <Item>
+        <Item_Name>Iphone3</Item_Name>
+        <Item_Num>HT-2004</Item_Num>
+        <Item_Cost>80000.00</Item_Cost>
+      </Item>
+    </INV_ITEM>
+  </Invoice>
+</Invoices>

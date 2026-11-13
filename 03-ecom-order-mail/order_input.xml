@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+	<Order>
+		<OrderHeader>
+			<OrderNumber>PO-4500001001</OrderNumber>
+			<OrderDate>2025-12-01</OrderDate>
+			<OrderType>Standard Purchase Order</OrderType>
+			<CompanyCode>1000</CompanyCode>
+			<PurchasingOrg>1000</PurchasingOrg>
+			<PurchasingGroup>PG1</PurchasingGroup>
+			<Currency>INR</Currency>
+			<CountryCode>IN</CountryCode>
+			<PaymentTerms>NET30</PaymentTerms>
+			<email>test@example.com</email>
+			<attachment></attachment>
+		</OrderHeader>
+		<VendorDetails>
+			<VendorID>10001</VendorID>
+			<VendorName>ABC Supplies Ltd</VendorName>
+			<GSTNumber>27ABCDE1234F1Z5</GSTNumber>
+		</VendorDetails>
+		<OrderItems>
+			<Item>
+				<OrderItem>00010</OrderItem>
+				<MaterialCode>MAT-1001</MaterialCode>
+				<Description>Industrial Control Panel</Description>
+				<Quantity>5</Quantity>
+				<Unit>EA</Unit>
+				<UnitPrice>15000.00</UnitPrice>
+				<ItemAmount>75000.00</ItemAmount>
+			</Item>
+			<Item>
+				<OrderItem>00030</OrderItem>
+				<MaterialCode>MAT-1003</MaterialCode>
+				<Description>Industrial Control Panel</Description>
+				<Quantity>10</Quantity>
+				<Unit>EA</Unit>
+				<UnitPrice>15000.00</UnitPrice>
+				<ItemAmount>150000.00</ItemAmount>
+			</Item>
+		</OrderItems>
+		<OrderSummary>
+		</OrderSummary>
+	</Order>
+</Orders>

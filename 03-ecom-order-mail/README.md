@@ -21,3 +21,12 @@ Address: smtp.gmail.com:587 | Protection: STARTTLS | Auth: Plain User/Password
 
 ## Tech Stack
 SAP Integration Suite, Apache Camel, XPath, Gmail SMTP
+
+## Header vs Exchange Property
+| | Header | Property |
+|---|---|---|
+| Sent to receiver | Yes (visible in mail source) | No (internal to iFlow) |
+| Monitor tab | Message Header | Exchange Properties |
+| Expression | ${header.MailID} | ${property.OrderID} |
+
+Screenshots: screenshots/10-mail-using-property.png, 11-mail-using-header.png

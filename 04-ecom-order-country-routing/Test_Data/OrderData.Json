@@ -1,0 +1,269 @@
+{
+    "root": {
+        "Orders": {
+            "Order": [
+                {
+                    "OrderHeader": {
+                        "OrderNumber": "PO-4500001001",
+                        "OrderDate": "2025-12-01",
+                        "OrderType": "Standard Purchase Order",
+                        "CompanyCode": "1000",
+                        "PurchasingOrg": "1000",
+                        "PurchasingGroup": "PG1",
+                        "Currency": "INR",
+                        "CountryCode": "IN",
+                        "PaymentTerms": "NET30",
+                        "email": "swamyvarapalla@gmail.com",
+                        "attachment": {}
+                    },
+                    "VendorDetails": {
+                        "VendorID": "10001",
+                        "VendorName": "ABC Supplies Ltd",
+                        "GSTNumber": "27ABCDE1234F1Z5"
+                    },
+                    "OrderItems": {
+                        "Item": [
+                            {
+                                "OrderItem": "00010",
+                                "MaterialCode": "MAT-1001",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "5",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "75000.00"
+                            },
+                            {
+                                "OrderItem": "00030",
+                                "MaterialCode": "MAT-1003",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "10",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "150000.00"
+                            }
+                        ]
+                    },
+                    "OrderSummary": {}
+                },
+                {
+                    "OrderHeader": {
+                        "OrderNumber": "PO-4500001002",
+                        "OrderDate": "2025-12-01",
+                        "OrderType": "Standard Purchase Order",
+                        "CompanyCode": "1000",
+                        "PurchasingOrg": "1000",
+                        "PurchasingGroup": "PG1",
+                        "Currency": "INR",
+                        "CountryCode": "US",
+                        "PaymentTerms": "NET30",
+                        "email": "swamyvarapalla@gmail.com",
+                        "attachment": {}
+                    },
+                    "VendorDetails": {
+                        "VendorID": "10001",
+                        "VendorName": "ABC Supplies Ltd",
+                        "GSTNumber": "27ABCDE1234F1Z5"
+                    },
+                    "OrderItems": {
+                        "Item": [
+                            {
+                                "OrderItem": "00010",
+                                "MaterialCode": "MAT-1001",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "5",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "75000.00"
+                            },
+                            {
+                                "OrderItem": "00030",
+                                "MaterialCode": "MAT-1003",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "10",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "150000.00"
+                            }
+                        ]
+                    },
+                    "OrderSummary": {}
+                },
+                {
+                    "OrderHeader": {
+                        "OrderNumber": "PO-4500001003",
+                        "OrderDate": "2025-12-01",
+                        "OrderType": "Standard Purchase Order",
+                        "CompanyCode": "1000",
+                        "PurchasingOrg": "1000",
+                        "PurchasingGroup": "PG1",
+                        "Currency": "INR",
+                        "CountryCode": "UK",
+                        "PaymentTerms": "NET30",
+                        "email": "swamyvarapalla@gmail.com",
+                        "attachment": {}
+                    },
+                    "VendorDetails": {
+                        "VendorID": "10001",
+                        "VendorName": "ABC Supplies Ltd",
+                        "GSTNumber": "27ABCDE1234F1Z5"
+                    },
+                    "OrderItems": {
+                        "Item": [
+                            {
+                                "OrderItem": "00010",
+                                "MaterialCode": "MAT-1001",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "5",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "75000.00"
+                            },
+                            {
+                                "OrderItem": "00030",
+                                "MaterialCode": "MAT-1003",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "10",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "150000.00"
+                            }
+                        ]
+                    },
+                    "OrderSummary": {}
+                },
+                {
+                    "OrderHeader": {
+                        "OrderNumber": "PO-4500001004",
+                        "OrderDate": "2025-12-01",
+                        "OrderType": "Standard Purchase Order",
+                        "CompanyCode": "1000",
+                        "PurchasingOrg": "1000",
+                        "PurchasingGroup": "PG1",
+                        "Currency": "INR",
+                        "CountryCode": "IN",
+                        "PaymentTerms": "NET30",
+                        "email": "swamyvarapalla@gmail.com",
+                        "attachment": {}
+                    },
+                    "VendorDetails": {
+                        "VendorID": "10001",
+                        "VendorName": "ABC Supplies Ltd",
+                        "GSTNumber": "27ABCDE1234F1Z5"
+                    },
+                    "OrderItems": {
+                        "Item": [
+                            {
+                                "OrderItem": "00010",
+                                "MaterialCode": "MAT-1001",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "5",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "75000.00"
+                            },
+                            {
+                                "OrderItem": "00030",
+                                "MaterialCode": "MAT-1003",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "10",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "150000.00"
+                            }
+                        ]
+                    },
+                    "OrderSummary": {}
+                },
+                {
+                    "OrderHeader": {
+                        "OrderNumber": "PO-4500001005",
+                        "OrderDate": "2025-12-01",
+                        "OrderType": "Standard Purchase Order",
+                        "CompanyCode": "1000",
+                        "PurchasingOrg": "1000",
+                        "PurchasingGroup": "PG1",
+                        "Currency": "INR",
+                        "CountryCode": "US",
+                        "PaymentTerms": "NET30",
+                        "email": "swamyvarapalla@gmail.com",
+                        "attachment": {}
+                    },
+                    "VendorDetails": {
+                        "VendorID": "10001",
+                        "VendorName": "ABC Supplies Ltd",
+                        "GSTNumber": "27ABCDE1234F1Z5"
+                    },
+                    "OrderItems": {
+                        "Item": [
+                            {
+                                "OrderItem": "00010",
+                                "MaterialCode": "MAT-1001",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "5",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "75000.00"
+                            },
+                            {
+                                "OrderItem": "00030",
+                                "MaterialCode": "MAT-1003",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "10",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "150000.00"
+                            }
+                        ]
+                    },
+                    "OrderSummary": {}
+                },
+                {
+                    "OrderHeader": {
+                        "OrderNumber": "PO-4500001006",
+                        "OrderDate": "2025-12-01",
+                        "OrderType": "Standard Purchase Order",
+                        "CompanyCode": "1000",
+                        "PurchasingOrg": "1000",
+                        "PurchasingGroup": [
+                            "PG1",
+                            "PG1"
+                        ],
+                        "Currency": "INR",
+                        "CountryCode": "UK",
+                        "PaymentTerms": "NET30",
+                        "email": "swamyvarapalla@gmail.com",
+                        "attachment": {}
+                    },
+                    "VendorDetails": {
+                        "VendorID": "10001",
+                        "VendorName": "ABC Supplies Ltd",
+                        "GSTNumber": "27ABCDE1234F1Z5"
+                    },
+                    "OrderItems": {
+                        "Item": [
+                            {
+                                "OrderItem": "00010",
+                                "MaterialCode": "MAT-1001",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "5",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "75000.00"
+                            },
+                            {
+                                "OrderItem": "00030",
+                                "MaterialCode": "MAT-1003",
+                                "Description": "Industrial Control Panel",
+                                "Quantity": "10",
+                                "Unit": "EA",
+                                "UnitPrice": "15000.00",
+                                "ItemAmount": "150000.00"
+                            }
+                        ]
+                    },
+                    "OrderSummary": {}
+                }
+            ]
+        }
+    }
+}
